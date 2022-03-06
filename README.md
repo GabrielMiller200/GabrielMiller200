@@ -12,7 +12,7 @@
 - 💻 Atualmente curso Ciência da Computação
 - 🗂️ Aprendendo modelagem em Banco de Dados
 - 📧 Contate-me no Email : Gabrielmiller2000@gmail.com
-- 📚 Estudar HTML/CSS/JS e Programação em C futuramente
+- 📚 Estudar HTML/CSS/JS futuramente
 - 🌐 Objetivo de me tornar um excelente programador Front-end
 -  ♂️ Ele/Dele
 
