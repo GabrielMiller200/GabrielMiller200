@@ -1,6 +1,7 @@
-# ✋ Olá, Eu sou o Gabriel Miller
 
 <div align= "center">
+  <h1>✋ Olá, Eu sou o Gabriel Miller </h1>
+  
   <div style="display: inline_block"><br>
   <img align="justify" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="justify" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
