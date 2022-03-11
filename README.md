@@ -10,7 +10,7 @@
 </div></div>
 <br>
 
-- Me chamo Gabriel Miller, atualmente tenho 22 anos, sempre gostei de tecnologia quando criança e quando tive a oportunidade de entrar nesse ramo não hesitei,
+ Me chamo Gabriel Miller, atualmente tenho 22 anos, sempre gostei de tecnologia quando criança e quando tive a oportunidade de entrar nesse ramo não hesitei,
 sempre achei muito interessante a forma que programas e aplicativos são escritos, para mim era algo como se fosse um quebra-cabeça lego, como se você escolhesse montar um slide, mas quando percebi que tudo era códigos e comandos, foi ai que eu vi que eu não sabia de absolutamente nada sobre isso e isso instigou minha curiosidade para conhecer mais.
 
 <div align="center"><br>
