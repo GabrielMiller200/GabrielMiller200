@@ -28,7 +28,5 @@ sempre achei muito interessante a forma que programas e aplicativos são escrito
   <a href="https://github.com/GabrielMiller200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmiller200&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiller200&layout=default&langs_count=5&theme=dark"/>
- 
-  ![Snake animation](https://github.com/gabrielmiller200/gabrielmiller200/blob/output/github-contribution-grid-snake.svg)
 </div>
   
