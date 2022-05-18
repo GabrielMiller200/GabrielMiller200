@@ -24,9 +24,3 @@ sempre achei muito interessante a forma que programas e aplicativos são escrito
 - 📚 Estudando atualmente HTML/CSS/JS, juntamente com Lógica de Programação e Banco de Dados
 - 🌐 Objetivo de me tornar um excelente programador Front-end, porém indo em direção a Full-stack
 ##
-<div align="center">
-  <a href="https://github.com/GabrielMiller200">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmiller200&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiller200&layout=default&langs_count=5&theme=dark"/>
-</div>
-  
