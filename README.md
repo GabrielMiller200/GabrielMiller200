@@ -17,5 +17,5 @@
 - 💻 Atualmente curso Ciência da Computação
 - 📚 Estudando atualmente modelagem (UML) e suas aplicações.
 - 🌐 Objetivo de me tornar um excelente analista.
-- 🚦 Tenho minha paixão por desenvolvimento, porém tais atividades foram paralisadas.
+- 🚦 Tenho paixão por desenvolvimento.
 ##
